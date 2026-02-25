@@ -1,1 +1,1 @@
-# cricbuzz-odi-ranking-data   sa
+# cricbuzz-odi-ranking-data   stg
